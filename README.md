@@ -4,13 +4,13 @@
 
 - 🔭 I’m currently working on ... React, Node & Express.js
 - 🌱 I’m currently learning ... MERN Full Stack Development
-- 🥅 2021 Goals: Get a Software Development Job
+- 🥅 2021 Goals ... Get a Software Development Job
 - 👯 I’m looking to collaborate on ... Contribute to Open Source project
 - 🤔 I’m looking for help with ... Need a Opportunity For Industrial Work Experience
 - 💬 Ask me about ... Anything & Anymore On Development or Programming
-- 📫 How to reach me: ... Contact / Follow Me - Facebook or Email
-- 😄 Pronouns: ... I'm an Man And Love Programming
-- ⚡ Fun fact: ... I'm Half Finish & Enjoy Life
+- 📫 How to reach me ... Contact / Follow Me - Facebook or Email
+- 😄 Pronouns ... I'm an Man And Love Programming
+- ⚡ Fun fact ... I'm Half Finish & Enjoy Life
 
 <br />
 
