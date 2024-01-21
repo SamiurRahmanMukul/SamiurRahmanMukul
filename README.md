@@ -8,7 +8,7 @@
 
 # Hi <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="Hi">
 
-I'm Md. Samiur Rahman (Mukul), a `Software Developer` from <img src="https://flagcdn.com/16x12/bd.png" width="16" height="12" alt="Bangladesh"> Bangladesh. I graduated in Computer Science and Engineering (CSE) from the <a href="https://www.nu.ac.bd" target="_blank">National University of Bangladesh</a>. I'm passionate about programming and specialize in Web and Mobile app development. I love learning and exploring new technologies. Let's connect for exciting collaborations! Explore my projects. 🚀 #CodingJourney #TechEnthusiast
+I'm Md. Samiur Rahman (Mukul), a `Software Developer` from <img src="https://flagcdn.com/16x12/bd.png" width="16" height="12" alt="Bangladesh"> Bangladesh. I graduated in Computer Science and Engineering (CSE) from the <a href="https://www.nu.ac.bd" target="_blank">National University of Bangladesh</a>. I'm passionate about programming and specialize in Web and Mobile app development. I love learning and exploring new technologies. Let's connect for exciting collaborations! 🚀 #CodingJourney #TechEnthusiast
 
 ### ✨ I'm a Learner, Programmer & Developer
 
@@ -60,7 +60,7 @@ I'm Md. Samiur Rahman (Mukul), a `Software Developer` from <img src="https://fla
     <tr>
       <td>10</td>
       <td><a href="https://github.com/SamiurRahmanMukul/Hotel-Room-Booking-System" target="_blank">Beach Resort (Hotel Room Book)</a></td>
-      <td>Node.js, Express.js, MongoDB, Mongoose.js, React.js, Next.js, Tailwind CSS & Ant Design</td>
+      <td>Node.js, Express.js, MongoDB, React.js, & Next.js</td>
       <td><a href="#" target="_blank">❌ No Live Preview</a></td>
     </tr>
     <tr>
