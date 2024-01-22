@@ -8,7 +8,7 @@
 
 # Hi <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="Hi">
 
-I'm Md. Samiur Rahman (Mukul), a `Software Developer` from <img src="https://flagcdn.com/16x12/bd.png" width="16" height="12" alt="Bangladesh"> Bangladesh. I graduated in Computer Science and Engineering (CSE) from the <a href="https://www.nu.ac.bd" target="_blank">National University of Bangladesh</a>. I'm passionate about programming and specialize in Web and Mobile app development. I love learning and exploring new technologies. Let's connect for exciting collaborations! 🚀 #CodingJourney #TechEnthusiast
+I'm Md. Samiur Rahman (Mukul), a `Software Developer` from <img src="https://flagcdn.com/16x12/bd.png" width="16" height="12" alt="Bangladesh"> Bangladesh. I graduated in Computer Science and Engineering (CSE) from the <a href="https://www.nu.ac.bd" target="_blank">National University</a> of Bangladesh. I'm passionate about programming and specialize in Web and Mobile app development. I love learning and exploring new technologies. Let's connect for exciting collaborations! 🚀 #CodingJourney #TechEnthusiast
 
 ### ✨ I'm a Learner, Programmer & Developer
 
@@ -34,7 +34,7 @@ I'm Md. Samiur Rahman (Mukul), a `Software Developer` from <img src="https://fla
 [![GraphQL Badge](https://img.shields.io/badge/-GraphQl-e535ab?style=for-the-badge&labelColor=black&logo=graphql&logoColor=white)](https://graphql.org/learn)
 [![MySQL Badge](https://img.shields.io/badge/-MySQL-F29111?style=for-the-badge&labelColor=black&logo=mysql&logoColor=white)](https://dev.mysql.com/doc)
 [![MongoDB Badge](https://img.shields.io/badge/-MongoDB-4EA94B?style=for-the-badge&labelColor=black&logo=mongodb&logoColor=4EA94B)](https://docs.mongodb.com)
-[![React Badge](https://img.shields.io/badge/-React.js-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)](https://reactjs.org/docs/getting-started.html)
+[![React Badge](https://img.shields.io/badge/-React.js-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)](https://react.dev/reference/react)
 [![Next.js Badge](https://img.shields.io/badge/-Next.js-303030?style=for-the-badge&labelColor=black&logo=next.js&logoColor=white)](https://nextjs.org/docs)
 [![Bootstrap Badge](https://img.shields.io/badge/-Bootstrap-080135?style=for-the-badge&labelColor=black&logo=bootstrap&logoColor=white)](https://getbootstrap.com/docs/4.1/getting-started/introduction)
 [![TailwindCSS Badge](https://img.shields.io/badge/-Tailwind_CSS-38B2AC?style=for-the-badge&labelColor=black&logo=tailwind-css&logoColor=white)](https://tailwindcss.com/docs/installation)
@@ -71,9 +71,9 @@ I'm Md. Samiur Rahman (Mukul), a `Software Developer` from <img src="https://fla
     </tr>
     <tr>
       <td>08</td>
-      <td><a href="https://github.com/SamiurRahmanMukul/Node-RESTfulAPI-Task-Manager" target="_blank">Uptime Monotint (RESTful API)</a></td>
-      <td>Node.js, Express.js & MongoDB</td>
-      <td><a href="#" target="_blank">❌ No Live Preview</a></td>
+      <td><a href="https://github.com/SamiurRahmanMukul/Complete-MERN-TODO-Application" target="_blank">Todo App (MERN Stack)</a></td>
+      <td>Node.js, Express.js, MongoDB & React.js</td>
+     <td><a href="https://mukul-todo-app.netlify.app" target="_blank">👉 Click Here</a></td>
     </tr>
     <tr>
       <td>07</td>
