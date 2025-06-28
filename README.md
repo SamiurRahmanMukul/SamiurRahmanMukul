@@ -39,6 +39,7 @@ I'm **Md. Samiur Rahman (Mukul)**, a passionate Software Developer from <img src
 [![MongoDB Badge](https://img.shields.io/badge/-MongoDB-4EA94B?style=for-the-badge&labelColor=black&logo=mongodb&logoColor=4EA94B)](https://docs.mongodb.com)
 [![React Native Badge](https://img.shields.io/badge/-React_Native-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)](https://reactnative.dev/docs/getting-started)
 [![React Badge](https://img.shields.io/badge/-React.js-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)](https://react.dev/reference/react)
+[![Redux Badge](https://img.shields.io/badge/-Redux-764ABC?style=for-the-badge&labelColor=black&logo=redux&logoColor=white)](https://redux.js.org)
 [![Next.js Badge](https://img.shields.io/badge/-Next.js-303030?style=for-the-badge&labelColor=black&logo=next.js&logoColor=white)](https://nextjs.org/docs)
 [![TailwindCSS Badge](https://img.shields.io/badge/-Tailwind_CSS-38B2AC?style=for-the-badge&labelColor=black&logo=tailwind-css&logoColor=white)](https://tailwindcss.com/docs/installation)
 [![MUI Badge](https://img.shields.io/badge/-MUI-007FFF?style=for-the-badge&labelColor=black&logo=mui&logoColor=white)](https://mui.com/material-ui/getting-started)
@@ -85,13 +86,13 @@ I'm **Md. Samiur Rahman (Mukul)**, a passionate Software Developer from <img src
     <tr>
       <td>04</td>
       <td><a href="https://github.com/SamiurRahmanMukul/React-Project-COVID-19-Tracker" target="_blank">Covid-19 Tracker Project</a></td>
-      <td>React.js (JavaScript Framework)</td>
+      <td>HTML, CSS & React.js</td>
       <td><a href="https://covid-19-tracker-with-mukul.netlify.app" target="_blank">👉 Click Here</a></td>
     </tr>
     <tr>
       <td>05</td>
       <td><a href="https://github.com/SamiurRahmanMukul/React-E-Commerse-Project-Mobile-Shop" target="_blank">Mobile Shop (E-Commerce)</a></td>
-      <td>React.js (JavaScript Framework)</td>
+      <td>HTML, CSS & React.js</td>
       <td><a href="https://react-e-commerse-project-mobile-shop.netlify.app" target="_blank">👉 Click Here</a></td>
     </tr>
     <tr>
@@ -105,6 +106,14 @@ I'm **Md. Samiur Rahman (Mukul)**, a passionate Software Developer from <img src
       <td><a href="https://github.com/SamiurRahmanMukul/Vanila-JavaScript-Project" target="_blank">Vanilla JavaScript Mini Projects</a></td>
       <td>HTML, CSS & Vanilla JavaScript</td>
       <td><a href="https://samiurrahmanmukul.github.io/Vanila-JavaScript-Project" target="_blank">👉 Click Here</a></td>
+    </tr>
+    <tr>
+      <td>08</td>
+      <td><a href="https://github.com/SamiurRahmanMukul/Mange-Tailwind-CSS-Landing-Page" target="_blank">
+      Landing Webpage Design
+      </a></td>
+      <td>HTML, Tailwind CSS & JavaScript</td>
+      <td><a href="https://samiurrahmanmukul.github.io/Mange-Tailwind-CSS-Landing-Page" target="_blank">👉 Click Here</a></td>
     </tr>
   </tbody>
 </table>
