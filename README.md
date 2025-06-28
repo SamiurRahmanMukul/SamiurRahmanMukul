@@ -96,9 +96,9 @@ I'm **Md. Samiur Rahman (Mukul)**, a passionate Software Developer from <img src
     </tr>
     <tr>
       <td>06</td>
-      <td><a href="https://samiurrahmanmukul.github.io/Comfy-House-JavaScript-Sopping-Cart" target="_blank">Comfy House (Shopping Cart)</a></td>
+      <td><a href="https://github.com/SamiurRahmanMukul/Comfy-House-JavaScript-Sopping-Cart" target="_blank">Comfy House (Shopping Cart)</a></td>
       <td>HTML, CSS & Vanilla JavaScript</td>
-      <td><a href="https://samiurrahmanmukul.github.io/comfy-house-javascript-sopping-cart-project" target="_blank">👉 Click Here</a></td>
+      <td><a href="https://samiurrahmanmukul.github.io/Comfy-House-JavaScript-Sopping-Cart" target="_blank">👉 Click Here</a></td>
     </tr>
     <tr>
       <td>07</td>
