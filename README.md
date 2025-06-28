@@ -8,7 +8,7 @@
 
 # Hi <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="Hi">
 
-I'm **Md. Samiur Rahman (Mukul)**, a passionate Software Developer from <img src="https://flagcdn.com/16x12/bd.png" width="16" height="12" alt="Bangladesh"> Bangladesh. I hold a degree in Computer Science and Engineering (CSE) from the National University of Bangladesh. My expertise lies in Web and Mobile Application Development, and I’m always eager to explore emerging technologies and grow through continuous learning. Open to exciting opportunities and collaborations — let’s build something amazing together! 🚀 #CodingJourney #TechEnthusiast
+I'm **Md. Samiur Rahman (Mukul)**, a passionate Software Developer from <img src="https://flagcdn.com/16x12/bd.png" width="16" height="12" alt="Bangladesh"> Bangladesh. I hold a degree in Computer Science and Engineering (CSE) from the National University, Bangladesh. My expertise lies in Web and Mobile Application Development, and I’m always eager to explore emerging technologies and grow through continuous learning. Open to exciting opportunities and collaborations — let’s build something amazing together! 🚀 #CodingJourney #TechEnthusiast
 
 ### ✨ I'm a Learner, Programmer & Developer
 
@@ -20,7 +20,7 @@ I'm **Md. Samiur Rahman (Mukul)**, a passionate Software Developer from <img src
 - 😄 Pronouns ... I'm an Man And Love Programming. <br/>
 - ⚡ Fun fact ... I'm Half Finish & Enjoy Life. <br/>
 
-### 🏫 I'm Explore Knowledge on Programming Language
+### 🏫 Exploring Knowledge in Programming Languages
 
 [![C-Programming Badge](https://img.shields.io/badge/-C_Programmign_Language-blue?style=for-the-badge&labelColor=black&logo=c&logoColor=blue)](https://devdocs.io/c)
 [![Java-Programming Badge](https://img.shields.io/badge/-Java_Programmign_Language-red?style=for-the-badge&labelColor=black&logo=java&logoColor=red)](https://docs.oracle.com/en/java)
@@ -29,7 +29,7 @@ I'm **Md. Samiur Rahman (Mukul)**, a passionate Software Developer from <img src
 [![Javascript Badge](https://img.shields.io/badge/-JavaScript_Programmign_Language-yellow?style=for-the-badge&labelColor=black&logo=javascript&logoColor=yellow)](https://www.w3schools.com/js/default.asp)
 [![TypeScript Badge](https://img.shields.io/badge/-TypeScript_Programmign_Language-blue?style=for-the-badge&labelColor=black&logo=typescript&logoColor=blue)](https://www.typescriptlang.org/docs)
 
-### 👩‍💻 Things i Code with Development
+### 👩‍💻 Technologies I Work With
 
 [![Android Badge](https://img.shields.io/badge/-Android%20APP%20Development-3C873A?style=for-the-badge&labelColor=black&logo=android&logoColor=3C873A)](https://developer.android.com/docs)
 [![Nodejs Badge](https://img.shields.io/badge/-Node.js-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)](https://nodejs.org/en/docs)
@@ -52,7 +52,7 @@ I'm **Md. Samiur Rahman (Mukul)**, a passionate Software Developer from <img src
 [![Postman Badge](https://img.shields.io/badge/-Postman-FF6C37?style=for-the-badge&labelColor=black&logo=postman&logoColor=white)](https://www.postman.com)
 [![Figma Badge](https://img.shields.io/badge/-Figma-F24E1E?style=for-the-badge&labelColor=black&logo=figma&logoColor=white)](https://www.figma.com)
 
-### 🏢 My Built-In Complete Featured Project
+### 🏢 My Fully Featured Projects
 
 <table>
   <thead align="center">
@@ -96,13 +96,13 @@ I'm **Md. Samiur Rahman (Mukul)**, a passionate Software Developer from <img src
     </tr>
     <tr>
       <td>06</td>
-      <td><a href="https://github.com/SamiurRahmanMukul/comfy-house-javascript-sopping-cart-project" target="_blank">Comfy House (Shopping Cart)</a></td>
+      <td><a href="https://samiurrahmanmukul.github.io/Comfy-House-JavaScript-Sopping-Cart" target="_blank">Comfy House (Shopping Cart)</a></td>
       <td>HTML, CSS & Vanilla JavaScript</td>
       <td><a href="https://samiurrahmanmukul.github.io/comfy-house-javascript-sopping-cart-project" target="_blank">👉 Click Here</a></td>
     </tr>
     <tr>
       <td>07</td>
-      <td><a href="https://github.com/SamiurRahmanMukul/Vanila-JavaScript-Project" target="_blank">Vanilla JS Mini Projects</a></td>
+      <td><a href="https://github.com/SamiurRahmanMukul/Vanila-JavaScript-Project" target="_blank">Vanilla JavaScript Mini Projects</a></td>
       <td>HTML, CSS & Vanilla JavaScript</td>
       <td><a href="https://samiurrahmanmukul.github.io/Vanila-JavaScript-Project" target="_blank">👉 Click Here</a></td>
     </tr>
