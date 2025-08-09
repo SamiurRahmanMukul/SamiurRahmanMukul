@@ -4,11 +4,11 @@
 [![Facebook Badge](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/SamiurRahmanMukul)
 [![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/samiur_rahman_mukul)
 
-![Github Banner](https://raw.githubusercontent.com/SamiurRahmanMukul/SamiurRahmanMukul/main/assets/github-banner-v4.1.png)
+![Github Banner](https://raw.githubusercontent.com/SamiurRahmanMukul/SamiurRahmanMukul/main/assets/github-banner-v5.png)
 
 # Hi <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="Hi">
 
-I'm **Md. Samiur Rahman (Mukul)**, a passionate Software Developer from <img src="https://flagcdn.com/16x12/bd.png" width="16" height="12" alt="Bangladesh"> Bangladesh. I hold a degree in Computer Science and Engineering (CSE) from the National University, Bangladesh. My expertise lies in Web and Mobile Application Development, and I’m always eager to explore emerging technologies and grow through continuous learning. Open to exciting opportunities and collaborations — let’s build something amazing together! 🚀 #CodingJourney #TechEnthusiast
+I'm **Md. Samiur Rahman (Mukul)**, a passionate Software Developer from <img src="https://flagcdn.com/16x12/bd.png" width="16" height="12" alt="Bangladesh"> Bangladesh. I hold a degree in Computer Science and Engineering (CSE) from the National University, Bangladesh. My expertise lies in Full-Stack Mobile & Web Application Development, and I’m always eager to explore emerging technologies and grow through continuous learning. Open to exciting opportunities and collaborations — let’s build something amazing together! 🚀 #CodingJourney #TechEnthusiast
 
 ### ✨ I'm a Learner, Programmer & Developer
 
@@ -118,11 +118,11 @@ I'm **Md. Samiur Rahman (Mukul)**, a passionate Software Developer from <img src
   </tbody>
 </table>
 
-#### 🎯 Github Profile Status (Years, Repository & Visitors)
+#### 🎯 Github Profile Status (Followers, Stars & Visitors)
 
-![years](https://badges.pufler.dev/years/SamiurRahmanMukul)
-![repository](https://badges.pufler.dev/repos/SamiurRahmanMukul)
-![visitors](https://komarev.com/ghpvc/?username=SamiurRahmanMukul)
+![GitHub followers](https://img.shields.io/github/followers/SamiurRahmanMukul?style=for-the-badge&label=Followers)
+![GitHub stars](https://img.shields.io/github/stars/SamiurRahmanMukul?style=for-the-badge&label=Stars)
+![GitHub visitors](https://komarev.com/ghpvc/?username=SamiurRahmanMukul&style=for-the-badge)
 
 <details>
   <summary>
