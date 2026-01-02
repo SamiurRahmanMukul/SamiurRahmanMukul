@@ -29,8 +29,6 @@
 
 I'm **Md. Samiur Rahman (Mukul)**, a Software Developer from <img src="https://flagcdn.com/16x12/bd.png" width="16" height="12" alt="Bangladesh"> Bangladesh. I hold a degree in Computer Science and Engineering (CSE) from the National University, Bangladesh. I specialize in **Full‑Stack Web & Mobile App Development** — building clean, user‑focused interfaces and reliable, scalable backends. I’m always exploring new technologies and enjoy collaborating on impactful products and open‑source. Open to exciting opportunities and collaborations — let’s build something great together.
 
----
-
 ## ✨ I'm a Learner, Programmer & Developer
 
 - ❤️ I enjoy learning, exploring programming, and sharing knowledge. <br/>
@@ -40,8 +38,6 @@ I'm **Md. Samiur Rahman (Mukul)**, a Software Developer from <img src="https://f
 - 💬 Ask me about `Web`, `Mobile`, or `Backend` development. <br/>
 - 😄 Pronouns: he/him. <br/>
 - ⚡ Fun fact: I believe in progress over perfection — and enjoying the journey. <br/>
-
----
 
 ## 🧠 Languages I'm Currently Learning & Working With
 
@@ -65,8 +61,6 @@ I'm **Md. Samiur Rahman (Mukul)**, a Software Developer from <img src="https://f
     <img alt="TypeScript Programming Language" src="https://img.shields.io/badge/-TypeScript_Programmign_Language-blue?style=for-the-badge&labelColor=black&logo=typescript&logoColor=blue" />
   </a>
 </p>
-
----
 
 ## 🛠️ Tools & Technologies I Use Regularly
 
@@ -98,6 +92,9 @@ I'm **Md. Samiur Rahman (Mukul)**, a Software Developer from <img src="https://f
   <a href="https://redux.js.org/introduction/getting-started">
     <img alt="Redux" src="https://img.shields.io/badge/-Redux-764ABC?style=for-the-badge&labelColor=black&logo=redux&logoColor=white" />
   </a>
+  <a href="https://zustand.docs.pmnd.rs/getting-started/introduction">
+    <img alt="Zustand" src="https://img.shields.io/badge/-Zustand-303030?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB" />
+  </a>
   <a href="https://nextjs.org/docs">
     <img alt="Next.js" src="https://img.shields.io/badge/-Next.js-303030?style=for-the-badge&labelColor=black&logo=next.js&logoColor=white" />
   </a>
@@ -113,8 +110,11 @@ I'm **Md. Samiur Rahman (Mukul)**, a Software Developer from <img src="https://f
   <a href="https://ui.shadcn.com/docs">
     <img alt="shadcn/ui" src="https://img.shields.io/badge/-shadcn%2Fui-000000?style=for-the-badge&labelColor=black&logo=shadcnui&logoColor=white" />
   </a>
-  <a href="https://gluestack.io/ui/docs/overview/introduction">
+  <a href="https://gluestack.io/ui/docs/home/overview/quick-start">
     <img alt="Gluetack UI" src="https://img.shields.io/badge/-gluestack%20UI-6D28D9?style=for-the-badge&labelColor=black&logo=react&logoColor=white" />
+  </a>
+  <a href="https://callstack.github.io/react-native-paper/">
+    <img alt="React Native Paper" src="https://img.shields.io/badge/-React%20Native%20Paper-6200EE?style=for-the-badge&labelColor=black&logo=materialdesign&logoColor=white" />
   </a>
   <a href="https://git-scm.com/downloads">
     <img alt="Git" src="https://img.shields.io/badge/-Git-F05032?style=for-the-badge&labelColor=black&logo=git&logoColor=F05032" />
@@ -141,8 +141,6 @@ I'm **Md. Samiur Rahman (Mukul)**, a Software Developer from <img src="https://f
     <img alt="Figma" src="https://img.shields.io/badge/-Figma-F24E1E?style=for-the-badge&labelColor=black&logo=figma&logoColor=white" />
   </a>
 </p>
-
----
 
 ## 🚀 Highlighted Portfolio Projects
 
@@ -207,8 +205,6 @@ I'm **Md. Samiur Rahman (Mukul)**, a Software Developer from <img src="https://f
   </tbody>
 </table>
 
----
-
 ## 🎯 Github Profile Status (Followers, Stars & Visitors)
 
 <p align="center">
@@ -222,7 +218,7 @@ I'm **Md. Samiur Rahman (Mukul)**, a Software Developer from <img src="https://f
 
 I love learning and sharing knowledge and putting `tutorials, courses, posts & open source project` together for helping other developers.
 
-#### ⭐ Github Stats & Most Used Language
+#### ⭐ Github Stats & Top Used Language
 
 <p align="center">
   <img
