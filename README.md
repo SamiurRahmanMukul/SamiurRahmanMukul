@@ -238,7 +238,7 @@ I love learning and sharing knowledge and putting `tutorials, courses, posts & o
 <p align="center">
   <img
     alt="GitHub streak stats"
-    src="https://streak-stats.demolab.com?user=SamiurRahmanMukul&theme=tokyonight&hide_border=true"
+    src="https://streak-stats.demolab.com/?user=SamiurRahmanMukul&theme=tokyonight&hide_border=true&cache_seconds=86400"
   />
 </p>
 
