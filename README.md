@@ -233,14 +233,14 @@ I love learning and sharing knowledge and putting `tutorials, courses, posts & o
   />
 </p>
 
-#### 🔥 GitHub Streak
+<!-- #### 🔥 GitHub Streak
 
 <p align="center">
   <img
     alt="GitHub streak stats"
-    src="https://streak-stats.demolab.com/?user=SamiurRahmanMukul&theme=tokyonight&hide_border=true&cache_seconds=86400"
+    src="https://streak-stats.demolab.com?user=SamiurRahmanMukul&theme=tokyonight&hide_border=true"
   />
-</p>
+</p> -->
 
 #### 📈 Contribution Graph
 
