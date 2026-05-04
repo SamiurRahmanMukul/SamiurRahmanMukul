@@ -27,7 +27,7 @@
   Hi <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="Hi">
 </h1>
 
-I'm **Md. Samiur Rahman (Mukul)**, a Software Developer from <img src="https://flagcdn.com/16x12/bd.png" width="16" height="12" alt="Bangladesh"> Bangladesh. I hold a degree in Computer Science and Engineering (CSE) from the National University, Bangladesh. I specialize in **Full‑Stack Web & Mobile App Development** — building clean, user‑focused interfaces and reliable, scalable backends. I’m always exploring new technologies and enjoy collaborating on impactful products and open‑source. Open to exciting opportunities and collaborations — let’s build something great together.
+I'm **Md. Samiur Rahman (Mukul)**, a Software Developer from Bangladesh. I hold a degree in Computer Science and Engineering (CSE) from the National University, Bangladesh. I specialize in **Full‑Stack Web & Mobile App Development** — building clean, user‑focused interfaces and reliable, scalable backends. I’m always exploring new technologies and enjoy collaborating on impactful products and open‑source. Open to exciting opportunities and collaborations — let’s build something great together.
 
 ## ✨ I'm a Learner, Programmer & Developer
 
