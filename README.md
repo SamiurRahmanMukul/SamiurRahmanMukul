@@ -3,7 +3,7 @@
     <img alt="GitHub" src="https://img.shields.io/badge/Github-0077B5?style=for-the-badge&logo=github&logoColor=white" />
   </a>
   <a href="https://www.linkedin.com/in/SamiurRahmanMukul">
-    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0id2hpdGUiPjxwYXRoIGQ9Ik0yMC40NDcgMjAuNDUyaC0zLjU1NHYtNS41NjljMC0xLjMyOC0uMDI3LTMuMDM3LTEuODUyLTMuMDM3LTEuODUzIDAtMi4xMzYgMS40NDUtMi4xMzYgMi45Mzl2NS42NjdIOS4zNTFWOWgzLjQxNHYxLjU2MWguMDQ2Yy40NzctLjkgMS42MzctMS44NSAzLjM3LTEuODVjMy42MDEgMCA0LjI2NyAyLjM3IDQuMjY3IDUuNDU1djYuMjg2ek01LjMzNyA3LjQzM2EyLjA2IDIuMDYgMCAwIDEtMi4wNjMtMi4wNjUgMi4wNjQgMi4wNjQgMCAxIDEgMi4wNjMgMi4wNjVtMS43ODIgMTMuMDE5SDMuNTU1VjloMy41NjR6TTIyLjIyNSAwSDEuNzcxQy43OTIgMCAwIC43NzQgMCAxLjcyOXYyMC41NDJDMCAyMy4yMjcuNzkyIDI0IDEuNzcxIDI0aDIwLjQ1MUMyMy4yIDI0IDI0IDIzLjIyNyAyNCAyMi4yNzFWMS43MjlDMjQgLjc3NCAyMy4yIDAgMjIuMjIyIDB6Ii8%2BPC9zdmc%2B&logoColor=white" />
   </a>
   <a href="https://x.com/SamiurRahMukul">
     <img alt="X" src="https://img.shields.io/badge/Twitter/X-000000?style=for-the-badge&logo=x&logoColor=white" />
@@ -27,15 +27,6 @@
   Hi <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="Hi">
 </h1>
 
-<p align="center">
-  <a href="https://git.io/typing-svg">
-    <img
-      src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=2800&pause=900&color=58A6FF&center=true&vCenter=true&width=780&lines=Full%E2%80%91Stack+Web+%26+Mobile+App+Developer;React.js+%C2%B7+React Native+%C2%B7+Next.js+%C2%B7+Node.js+%C2%B7+TypeScript;Building+user%E2%80%91focused+products+that+scale"
-      alt="Typing Introduction"
-    />
-  </a>
-</p>
-
 I'm **Md. Samiur Rahman (Mukul)**, a Software Engineer from Bangladesh. I hold a degree in Computer Science and Engineering (CSE) from the National University, Bangladesh. I specialize in **Full‑Stack Web & Mobile App Development** — building clean, user‑focused interfaces and reliable, scalable backends. I’m always exploring new technologies and enjoy collaborating on impactful products and open‑source. Open to exciting opportunities and collaborations — let’s build something great together.
 
 ## ✨ I'm a Learner, Programmer & Developer
@@ -55,13 +46,16 @@ I'm **Md. Samiur Rahman (Mukul)**, a Software Engineer from Bangladesh. I hold a
     <img alt="C Programming Language" src="https://img.shields.io/badge/-C_Programmign_Language-blue?style=for-the-badge&labelColor=black&logo=c&logoColor=blue" />
   </a>
   <a href="https://docs.oracle.com/en/java">
-    <img alt="Java Programming Language" src="https://img.shields.io/badge/-Java_Programmign_Language-red?style=for-the-badge&labelColor=black&logo=java&logoColor=red" />
+    <img alt="Java Programming Language" src="https://img.shields.io/badge/-Java_Programmign_Language-red?style=for-the-badge&labelColor=black&logo=openjdk&logoColor=red" />
   </a>
   <a href="https://docs.python.org/3">
     <img alt="Python Programming Language" src="https://img.shields.io/badge/-Python_Programmign_Language-4B8BBE?style=for-the-badge&labelColor=black&logo=python&logoColor=4B8BBE" />
   </a>
   <a href="https://go.dev/doc">
     <img alt="Go Programming Language" src="https://img.shields.io/badge/-Go_Programmign_Language-00ADD8?style=for-the-badge&labelColor=black&logo=go&logoColor=00ADD8" />
+  </a>
+  <a href="https://www.php.net/docs.php">
+    <img alt="PHP Programming Language" src="https://img.shields.io/badge/-PHP_Programmign_Language-777BB4?style=for-the-badge&labelColor=black&logo=php&logoColor=777BB4" />
   </a>
   <a href="https://www.w3schools.com/js/default.asp">
     <img alt="JavaScript Programming Language" src="https://img.shields.io/badge/-JavaScript_Programmign_Language-yellow?style=for-the-badge&labelColor=black&logo=javascript&logoColor=yellow" />
@@ -148,6 +142,29 @@ I'm **Md. Samiur Rahman (Mukul)**, a Software Engineer from Bangladesh. I hold a
   </a>
   <a href="https://www.figma.com">
     <img alt="Figma" src="https://img.shields.io/badge/-Figma-F24E1E?style=for-the-badge&labelColor=black&logo=figma&logoColor=white" />
+  </a>
+</p>
+
+## 🤖 AI Assistants & Platforms I Work With
+
+<p align="center">
+  <a href="https://cursor.com">
+    <img alt="Cursor" src="https://img.shields.io/badge/-Cursor_IDE-000000?style=for-the-badge&labelColor=black&logo=cursor&logoColor=white" />
+  </a>
+  <a href="https://claude.ai">
+    <img alt="Claude" src="https://img.shields.io/badge/-Claude.ai-D97757?style=for-the-badge&labelColor=black&logo=anthropic&logoColor=white" />
+  </a>
+  <a href="https://chatgpt.com">
+    <img alt="ChatGPT" src="https://img.shields.io/badge/-ChatGPT-10A37F?style=for-the-badge&labelColor=000000&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0id2hpdGUiPjxwYXRoIGQ9Ik0yMi4yODIgOS44MjFhNS45ODUgNS45ODUgMCAwIDAtLjUxNi00LjkxIDYuMDQ2IDYuMDQ2IDAgMCAwLTYuNTEtMi45QTYuMDY1IDYuMDY1IDAgMCAwIDQuOTgxIDQuMThhNS45ODUgNS45ODUgMCAwIDAtMy45OTggMi45IDYuMDQ2IDYuMDQ2IDAgMCAwIC43NDIgNy4wOTcgNS45OCA1Ljk4IDAgMCAwIC41MSA0LjkxMSA2LjA1MSA2LjA1MSAwIDAgMCA2LjUxNSAyLjlBNiA2IDAgMCAwIDEzLjI2IDI0YTYuMDU2IDYuMDU2IDAgMCAwIDUuNzcyLTQuMjA2IDUuOTkgNS45OSAwIDAgMCAzLjk5Ny0yLjkgNi4wNTYgNi4wNTYgMCAwIDAtLjc0Ny03LjA3M3pNMTMuMjYgMjIuNDNhNC40NzYgNC40NzYgMCAwIDEtMi44NzYtMS4wNGwuMTQxLS4wODEgNC43NzktMi43NThhLjc5NS43OTUgMCAwIDAgLjM5Mi0uNjgxdi02LjczN2wyLjAyIDEuMTY4YS4wNzEuMDcxIDAgMCAxIC4wMzguMDUydjUuNTgzYTQuNTA0IDQuNTA0IDAgMCAxLTQuNDk0IDQuNDk0ek0zLjYgMTguMzA0YTQuNDcgNC40NyAwIDAgMS0uNTM1LTMuMDE0bC4xNDIuMDg1IDQuNzgzIDIuNzU5YS43NzEuNzcxIDAgMCAwIC43OCAwbDYuNTcyLTMuNzl2Mi4zMzJhLjA4LjA4IDAgMCAxLS4wMzMuMDYyTDkuNzQgMTkuOTVhNC41IDQuNSAwIDAgMS02LjE0LTEuNjQ2ek0yLjM0IDcuODk2YTQuNDg1IDQuNDg1IDAgMCAxIDIuMzY2LTEuOTczVjExLjZhLjc2Ni43NjYgMCAwIDAgLjM4OC42NzZsNi40OTIgMy43NS0yLjAyIDEuMTY4YS4wNzYuMDc2IDAgMCAxLS4wNzEgMGwtNS4zMjUtMy4wNzRBNC41IDQuNSAwIDAgMSAyLjM0IDcuODcyem0xNi41OTcgMy44NTVsLTYuNTcyLTMuNzlMMTUuMzkgNy4wOGEuMDc2LjA3NiAwIDAgMSAuMDcxIDBsNC44MyAyLjc4NWE0LjQ5NCA0LjQ5NCAwIDAgMS0uNjc2IDguMTA0di01LjY3OGEuNzcuNzcgMCAwIDAtLjQwNy0uNjY3em0yLjAxLTMuMDIzbC0uMTQxLS4wODUtNC43NzMtMi43NzlhLjc3Ni43NzYgMCAwIDAtLjc4NSAwTDkuNDA5IDkuMjNWNi44OTdhLjA2Ni4wNjYgMCAwIDEgLjAyOC0uMDYxbDQuODMtMi43ODdhNC41IDQuNSAwIDAgMSA2LjY4IDQuNjZ6bS0xMi42NCA0LjEzNWwtMi4wMi0xLjE2NGEuMDguMDggMCAwIDEtLjAzOC0uMDU3VjYuOTg5YTQuNSA0LjUgMCAwIDEgNy4zNzUtMy40NTNsLS4xNDIuMDgtNC43NzggMi43NThhLjc5NS43OTUgMCAwIDAtLjM5My42ODF6bTEuMDk3LTIuMzY1bDIuNjAyLTEuNSAyLjYwNyAxLjV2Mi45OTlsLTIuNTk3IDEuNS0yLjYwNy0xLjV6Ii8%2BPC9zdmc%2B&logoColor=white" />
+  </a>
+  <a href="https://developers.openai.com">
+    <img alt="OpenAI API" src="https://img.shields.io/badge/-OpenAI_API-74AA9C?style=for-the-badge&labelColor=000000&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0id2hpdGUiPjxwYXRoIGQ9Ik0yMi4yODIgOS44MjFhNS45ODUgNS45ODUgMCAwIDAtLjUxNi00LjkxIDYuMDQ2IDYuMDQ2IDAgMCAwLTYuNTEtMi45QTYuMDY1IDYuMDY1IDAgMCAwIDQuOTgxIDQuMThhNS45ODUgNS45ODUgMCAwIDAtMy45OTggMi45IDYuMDQ2IDYuMDQ2IDAgMCAwIC43NDIgNy4wOTcgNS45OCA1Ljk4IDAgMCAwIC41MSA0LjkxMSA2LjA1MSA2LjA1MSAwIDAgMCA2LjUxNSAyLjlBNiA2IDAgMCAwIDEzLjI2IDI0YTYuMDU2IDYuMDU2IDAgMCAwIDUuNzcyLTQuMjA2IDUuOTkgNS45OSAwIDAgMCAzLjk5Ny0yLjkgNi4wNTYgNi4wNTYgMCAwIDAtLjc0Ny03LjA3M3pNMTMuMjYgMjIuNDNhNC40NzYgNC40NzYgMCAwIDEtMi44NzYtMS4wNGwuMTQxLS4wODEgNC43NzktMi43NThhLjc5NS43OTUgMCAwIDAgLjM5Mi0uNjgxdi02LjczN2wyLjAyIDEuMTY4YS4wNzEuMDcxIDAgMCAxIC4wMzguMDUydjUuNTgzYTQuNTA0IDQuNTA0IDAgMCAxLTQuNDk0IDQuNDk0ek0zLjYgMTguMzA0YTQuNDcgNC40NyAwIDAgMS0uNTM1LTMuMDE0bC4xNDIuMDg1IDQuNzgzIDIuNzU5YS43NzEuNzcxIDAgMCAwIC43OCAwbDYuNTcyLTMuNzl2Mi4zMzJhLjA4LjA4IDAgMCAxLS4wMzMuMDYyTDkuNzQgMTkuOTVhNC41IDQuNSAwIDAgMS02LjE0LTEuNjQ2ek0yLjM0IDcuODk2YTQuNDg1IDQuNDg1IDAgMCAxIDIuMzY2LTEuOTczVjExLjZhLjc2Ni43NjYgMCAwIDAgLjM4OC42NzZsNi40OTIgMy43NS0yLjAyIDEuMTY4YS4wNzYuMDc2IDAgMCAxLS4wNzEgMGwtNS4zMjUtMy4wNzRBNC41IDQuNSAwIDAgMSAyLjM0IDcuODcyem0xNi41OTcgMy44NTVsLTYuNTcyLTMuNzlMMTUuMzkgNy4wOGEuMDc2LjA3NiAwIDAgMSAuMDcxIDBsNC44MyAyLjc4NWE0LjQ5NCA0LjQ5NCAwIDAgMS0uNjc2IDguMTA0di01LjY3OGEuNzcuNzcgMCAwIDAtLjQwNy0uNjY3em0yLjAxLTMuMDIzbC0uMTQxLS4wODUtNC43NzMtMi43NzlhLjc3Ni43NzYgMCAwIDAtLjc4NSAwTDkuNDA5IDkuMjNWNi44OTdhLjA2Ni4wNjYgMCAwIDEgLjAyOC0uMDYxbDQuODMtMi43ODdhNC41IDQuNSAwIDAgMSA2LjY4IDQuNjZ6bS0xMi42NCA0LjEzNWwtMi4wMi0xLjE2NGEuMDguMDggMCAwIDEtLjAzOC0uMDU3VjYuOTg5YTQuNSA0LjUgMCAwIDEgNy4zNzUtMy40NTNsLS4xNDIuMDgtNC43NzggMi43NThhLjc5NS43OTUgMCAwIDAtLjM5My42ODF6bTEuMDk3LTIuMzY1bDIuNjAyLTEuNSAyLjYwNyAxLjV2Mi45OTlsLTIuNTk3IDEuNS0yLjYwNy0xLjV6Ii8%2BPC9zdmc%2B&logoColor=white" />
+  </a>
+  <a href="https://gemini.google.com">
+    <img alt="Google Gemini" src="https://img.shields.io/badge/-Google_Gemini-8E75B2?style=for-the-badge&labelColor=black&logo=googlegemini&logoColor=white" />
+  </a>
+  <a href="https://aistudio.google.com">
+    <img alt="Google AI Studio" src="https://img.shields.io/badge/-Google_AI_Studio-4285F4?style=for-the-badge&labelColor=black&logo=google&logoColor=white" />
   </a>
 </p>
 
