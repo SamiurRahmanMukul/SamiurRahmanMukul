@@ -18,7 +18,7 @@
 
 <p align="center">
   <img
-    src="https://raw.githubusercontent.com/SamiurRahmanMukul/SamiurRahmanMukul/main/assets/github-banner-v6.png"
+    src="https://raw.githubusercontent.com/SamiurRahmanMukul/SamiurRahmanMukul/main/assets/github-banner-v7.png"
     alt="GitHub Banner"
   />
 </p>
@@ -27,7 +27,16 @@
   Hi <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="Hi">
 </h1>
 
-I'm **Md. Samiur Rahman (Mukul)**, a Software Developer from Bangladesh. I hold a degree in Computer Science and Engineering (CSE) from the National University, Bangladesh. I specialize in **Full‑Stack Web & Mobile App Development** — building clean, user‑focused interfaces and reliable, scalable backends. I’m always exploring new technologies and enjoy collaborating on impactful products and open‑source. Open to exciting opportunities and collaborations — let’s build something great together.
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img
+      src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=2800&pause=900&color=58A6FF&center=true&vCenter=true&width=780&lines=Full%E2%80%91Stack+Web+%26+Mobile+App+Developer;React.js+%C2%B7+React Native+%C2%B7+Next.js+%C2%B7+Node.js+%C2%B7+TypeScript;Building+user%E2%80%91focused+products+that+scale"
+      alt="Typing Introduction"
+    />
+  </a>
+</p>
+
+I'm **Md. Samiur Rahman (Mukul)**, a Software Engineer from Bangladesh. I hold a degree in Computer Science and Engineering (CSE) from the National University, Bangladesh. I specialize in **Full‑Stack Web & Mobile App Development** — building clean, user‑focused interfaces and reliable, scalable backends. I’m always exploring new technologies and enjoy collaborating on impactful products and open‑source. Open to exciting opportunities and collaborations — let’s build something great together.
 
 ## ✨ I'm a Learner, Programmer & Developer
 
@@ -156,48 +165,60 @@ I'm **Md. Samiur Rahman (Mukul)**, a Software Developer from Bangladesh. I hold 
   <tbody align="center">
     <tr>
       <td>01</td>
-      <td><a href="https://github.com/SamiurRahmanMukul/Hotel-Room-Booking-System" target="_blank">Beach Resort (Hotel Room Book)</a></td>
-      <td>Node.js, Express.js, MongoDB, React.js, & Next.js</td>
-      <td><a href="https://mukul-beach-resort.vercel.app/" target="_blank">Live</a></td>
+      <td><a href="https://github.com/SamiurRahmanMukul/mukul-react-hooks" target="_blank">mukul-react-hooks (NPM Package)</a></td>
+      <td>React, TypeScript & Rollup</td>
+      <td><a href="https://mukul-react-hooks.vercel.app" target="_blank">Live</a></td>
     </tr>
     <tr>
       <td>02</td>
+      <td><a href="https://github.com/SamiurRahmanMukul/Hotel-Room-Booking-System" target="_blank">Beach Resort (Hotel Room Book)</a></td>
+      <td>Node.js, Express.js, MongoDB, React.js, & Next.js</td>
+      <td><a href="https://mukul-beach-resort.vercel.app" target="_blank">Live</a></td>
+    </tr>
+    <tr>
+      <td>03</td>
+      <td><a href="https://github.com/SamiurRahmanMukul/python-langgraph-chatbot" target="_blank">LangGraph PDF Chatbot</a></td>
+      <td>Python, LangGraph, Azure OpenAI & Gradio</td>
+      <td>N/A</td>
+    </tr>
+    <tr>
+      <td>04</td>
       <td><a href="https://github.com/SamiurRahmanMukul/Node-MongoDB-Chat-Application" target="_blank">Real-time Chat Application</a></td>
       <td>Node.js, Express.js, EJS, Socket IO & MongoDB</td>
       <td><a href="https://mukul-chat-application.herokuapp.com" target="_blank">Live</a></td>
     </tr>
     <tr>
-      <td>03</td>
+      <td>05</td>
       <td><a href="https://github.com/SamiurRahmanMukul/Complete-MERN-TODO-Application" target="_blank">Todo App (MERN Stack)</a></td>
       <td>Node.js, Express.js, MongoDB & React.js</td>
       <td><a href="https://mukul-todo-app.netlify.app" target="_blank">Live</a></td>
     </tr>
     <tr>
-      <td>04</td>
+      <td>06</td>
       <td><a href="https://github.com/SamiurRahmanMukul/React-Project-COVID-19-Tracker" target="_blank">Covid-19 Tracker Project</a></td>
       <td>HTML, CSS & React.js</td>
       <td><a href="https://covid-19-tracker-with-mukul.netlify.app" target="_blank">Live</a></td>
     </tr>
     <tr>
-      <td>05</td>
+      <td>07</td>
       <td><a href="https://github.com/SamiurRahmanMukul/React-E-Commerse-Project-Mobile-Shop" target="_blank">Mobile Shop (E-Commerce)</a></td>
       <td>HTML, CSS & React.js</td>
       <td><a href="https://react-e-commerse-project-mobile-shop.netlify.app" target="_blank">Live</a></td>
     </tr>
     <tr>
-      <td>06</td>
+      <td>08</td>
       <td><a href="https://github.com/SamiurRahmanMukul/Comfy-House-JavaScript-Sopping-Cart" target="_blank">Comfy House (Shopping Cart)</a></td>
       <td>HTML, CSS & Vanilla JavaScript</td>
       <td><a href="https://samiurrahmanmukul.github.io/Comfy-House-JavaScript-Sopping-Cart" target="_blank">Live</a></td>
     </tr>
     <tr>
-      <td>07</td>
+      <td>09</td>
       <td><a href="https://github.com/SamiurRahmanMukul/Vanila-JavaScript-Project" target="_blank">Vanilla JavaScript Mini Projects</a></td>
       <td>HTML, CSS & Vanilla JavaScript</td>
       <td><a href="https://samiurrahmanmukul.github.io/Vanila-JavaScript-Project" target="_blank">Live</a></td>
     </tr>
     <tr>
-      <td>08</td>
+      <td>10</td>
       <td><a href="https://github.com/SamiurRahmanMukul/Mange-Tailwind-CSS-Landing-Page" target="_blank">Landing Webpage Design</a></td>
       <td>HTML, Tailwind CSS & JavaScript</td>
       <td><a href="https://samiurrahmanmukul.github.io/Mange-Tailwind-CSS-Landing-Page" target="_blank">Live</a></td>
@@ -247,3 +268,17 @@ I love learning and sharing knowledge and putting `tutorials, courses, posts & o
 ![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=SamiurRahmanMukul&theme=tokyo-night&hide_border=true)
 
 </details>
+
+---
+
+<p align="center">
+  <strong>Thanks for stopping by!</strong>
+</p>
+
+<p align="center">
+  If you liked what you see, feel free to ⭐ star a repo, fork something useful, or <a href="https://www.linkedin.com/in/SamiurRahmanMukul">reach out</a> — I’m always open to collaborate and build something great together.
+</p>
+
+<p align="center">
+  <sub>Made with ❤️ from Bangladesh · Happy coding!</sub>
+</p>
