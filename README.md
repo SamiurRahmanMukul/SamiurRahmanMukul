@@ -48,14 +48,14 @@ I'm **Md. Samiur Rahman (Mukul)**, a Software Engineer from Bangladesh. I hold a
   <a href="https://docs.oracle.com/en/java">
     <img alt="Java Programming Language" src="https://img.shields.io/badge/-Java_Programmign_Language-red?style=for-the-badge&labelColor=black&logo=openjdk&logoColor=red" />
   </a>
-  <a href="https://docs.python.org/3">
-    <img alt="Python Programming Language" src="https://img.shields.io/badge/-Python_Programmign_Language-4B8BBE?style=for-the-badge&labelColor=black&logo=python&logoColor=4B8BBE" />
-  </a>
   <a href="https://go.dev/doc">
     <img alt="Go Programming Language" src="https://img.shields.io/badge/-Go_Programmign_Language-00ADD8?style=for-the-badge&labelColor=black&logo=go&logoColor=00ADD8" />
   </a>
   <a href="https://www.php.net/docs.php">
     <img alt="PHP Programming Language" src="https://img.shields.io/badge/-PHP_Programmign_Language-777BB4?style=for-the-badge&labelColor=black&logo=php&logoColor=777BB4" />
+  </a>
+  <a href="https://docs.python.org/3">
+    <img alt="Python Programming Language" src="https://img.shields.io/badge/-Python_Programmign_Language-4B8BBE?style=for-the-badge&labelColor=black&logo=python&logoColor=4B8BBE" />
   </a>
   <a href="https://www.w3schools.com/js/default.asp">
     <img alt="JavaScript Programming Language" src="https://img.shields.io/badge/-JavaScript_Programmign_Language-yellow?style=for-the-badge&labelColor=black&logo=javascript&logoColor=yellow" />
@@ -98,6 +98,9 @@ I'm **Md. Samiur Rahman (Mukul)**, a Software Engineer from Bangladesh. I hold a
   <a href="https://zustand.docs.pmnd.rs/getting-started/introduction">
     <img alt="Zustand" src="https://img.shields.io/badge/-Zustand-303030?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB" />
   </a>
+  <a href="https://tanstack.com/query/latest">
+    <img alt="TanStack Query" src="https://img.shields.io/badge/-TanStack_Query-FF4154?style=for-the-badge&labelColor=black&logo=reactquery&logoColor=white" />
+  </a>
   <a href="https://nextjs.org/docs">
     <img alt="Next.js" src="https://img.shields.io/badge/-Next.js-303030?style=for-the-badge&labelColor=black&logo=next.js&logoColor=white" />
   </a>
@@ -126,10 +129,7 @@ I'm **Md. Samiur Rahman (Mukul)**, a Software Engineer from Bangladesh. I hold a
     <img alt="GitHub" src="https://img.shields.io/badge/-Github-4078c0?style=for-the-badge&labelColor=black&logo=github&logoColor=white" />
   </a>
   <a href="https://code.visualstudio.com">
-    <img alt="Visual Studio Code" src="https://img.shields.io/badge/-Visual_Studio_Code-007ACC?style=for-the-badge&labelColor=black&logo=visual-studio-code&logoColor=007ACC" />
-  </a>
-  <a href="https://cursor.sh">
-    <img alt="Cursor" src="https://img.shields.io/badge/-Cursor-000000?style=for-the-badge&labelColor=black&logo=cursor&logoColor=white" />
+    <img alt="Visual Studio Code" src="https://img.shields.io/badge/-Visual_Studio_Code-007ACC?style=for-the-badge&labelColor=black&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0id2hpdGUiPjxwYXRoIGQ9Ik0yMy4xNSAyLjU4N0wxOC4yMS4yMWExLjQ5NCAxLjQ5NCAwIDAgMC0xLjcwNS4yOWwtOS40NiA4LjYzLTQuMTItMy4xMjhhLjk5OS45OTkgMCAwIDAtMS4yNzYuMDU3TC4zMjcgNy4yNjFBMSAxIDAgMCAwIC4zMjYgOC43NEwzLjg5OSAxMiAuMzI2IDE1LjI2YTEgMSAwIDAgMCAuMDAxIDEuNDc5TDEuNjUgMTcuOTRhLjk5OS45OTkgMCAwIDAgMS4yNzYuMDU3bDQuMTItMy4xMjggOS40NiA4LjYzYTEuNDkyIDEuNDkyIDAgMCAwIDEuNzA0LjI5bDQuOTQyLTIuMzc3QTEuNSAxLjUgMCAwIDAgMjQgMjAuMDZWMy45MzlhMS41IDEuNSAwIDAgMC0uODUtMS4zNTJ6bS01LjE0NiAxNC44NjFMMTAuODI2IDEybDcuMTc4LTUuNDQ4djEwLjg5NnoiLz48L3N2Zz4%3D&logoColor=white" />
   </a>
   <a href="https://developer.android.com/studio">
     <img alt="Android Studio" src="https://img.shields.io/badge/-Android_Studio-3DDC84?style=for-the-badge&labelColor=black&logo=android-studio&logoColor=white" />
@@ -149,7 +149,7 @@ I'm **Md. Samiur Rahman (Mukul)**, a Software Engineer from Bangladesh. I hold a
 
 <p align="center">
   <a href="https://cursor.com">
-    <img alt="Cursor" src="https://img.shields.io/badge/-Cursor_IDE-000000?style=for-the-badge&labelColor=black&logo=cursor&logoColor=white" />
+    <img alt="Cursor" src="https://img.shields.io/badge/-Cursor_AI-000000?style=for-the-badge&labelColor=black&logo=cursor&logoColor=white" />
   </a>
   <a href="https://claude.ai">
     <img alt="Claude" src="https://img.shields.io/badge/-Claude.ai-D97757?style=for-the-badge&labelColor=black&logo=anthropic&logoColor=white" />
@@ -157,7 +157,7 @@ I'm **Md. Samiur Rahman (Mukul)**, a Software Engineer from Bangladesh. I hold a
   <a href="https://chatgpt.com">
     <img alt="ChatGPT" src="https://img.shields.io/badge/-ChatGPT-10A37F?style=for-the-badge&labelColor=000000&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0id2hpdGUiPjxwYXRoIGQ9Ik0yMi4yODIgOS44MjFhNS45ODUgNS45ODUgMCAwIDAtLjUxNi00LjkxIDYuMDQ2IDYuMDQ2IDAgMCAwLTYuNTEtMi45QTYuMDY1IDYuMDY1IDAgMCAwIDQuOTgxIDQuMThhNS45ODUgNS45ODUgMCAwIDAtMy45OTggMi45IDYuMDQ2IDYuMDQ2IDAgMCAwIC43NDIgNy4wOTcgNS45OCA1Ljk4IDAgMCAwIC41MSA0LjkxMSA2LjA1MSA2LjA1MSAwIDAgMCA2LjUxNSAyLjlBNiA2IDAgMCAwIDEzLjI2IDI0YTYuMDU2IDYuMDU2IDAgMCAwIDUuNzcyLTQuMjA2IDUuOTkgNS45OSAwIDAgMCAzLjk5Ny0yLjkgNi4wNTYgNi4wNTYgMCAwIDAtLjc0Ny03LjA3M3pNMTMuMjYgMjIuNDNhNC40NzYgNC40NzYgMCAwIDEtMi44NzYtMS4wNGwuMTQxLS4wODEgNC43NzktMi43NThhLjc5NS43OTUgMCAwIDAgLjM5Mi0uNjgxdi02LjczN2wyLjAyIDEuMTY4YS4wNzEuMDcxIDAgMCAxIC4wMzguMDUydjUuNTgzYTQuNTA0IDQuNTA0IDAgMCAxLTQuNDk0IDQuNDk0ek0zLjYgMTguMzA0YTQuNDcgNC40NyAwIDAgMS0uNTM1LTMuMDE0bC4xNDIuMDg1IDQuNzgzIDIuNzU5YS43NzEuNzcxIDAgMCAwIC43OCAwbDYuNTcyLTMuNzl2Mi4zMzJhLjA4LjA4IDAgMCAxLS4wMzMuMDYyTDkuNzQgMTkuOTVhNC41IDQuNSAwIDAgMS02LjE0LTEuNjQ2ek0yLjM0IDcuODk2YTQuNDg1IDQuNDg1IDAgMCAxIDIuMzY2LTEuOTczVjExLjZhLjc2Ni43NjYgMCAwIDAgLjM4OC42NzZsNi40OTIgMy43NS0yLjAyIDEuMTY4YS4wNzYuMDc2IDAgMCAxLS4wNzEgMGwtNS4zMjUtMy4wNzRBNC41IDQuNSAwIDAgMSAyLjM0IDcuODcyem0xNi41OTcgMy44NTVsLTYuNTcyLTMuNzlMMTUuMzkgNy4wOGEuMDc2LjA3NiAwIDAgMSAuMDcxIDBsNC44MyAyLjc4NWE0LjQ5NCA0LjQ5NCAwIDAgMS0uNjc2IDguMTA0di01LjY3OGEuNzcuNzcgMCAwIDAtLjQwNy0uNjY3em0yLjAxLTMuMDIzbC0uMTQxLS4wODUtNC43NzMtMi43NzlhLjc3Ni43NzYgMCAwIDAtLjc4NSAwTDkuNDA5IDkuMjNWNi44OTdhLjA2Ni4wNjYgMCAwIDEgLjAyOC0uMDYxbDQuODMtMi43ODdhNC41IDQuNSAwIDAgMSA2LjY4IDQuNjZ6bS0xMi42NCA0LjEzNWwtMi4wMi0xLjE2NGEuMDguMDggMCAwIDEtLjAzOC0uMDU3VjYuOTg5YTQuNSA0LjUgMCAwIDEgNy4zNzUtMy40NTNsLS4xNDIuMDgtNC43NzggMi43NThhLjc5NS43OTUgMCAwIDAtLjM5My42ODF6bTEuMDk3LTIuMzY1bDIuNjAyLTEuNSAyLjYwNyAxLjV2Mi45OTlsLTIuNTk3IDEuNS0yLjYwNy0xLjV6Ii8%2BPC9zdmc%2B&logoColor=white" />
   </a>
-  <a href="https://developers.openai.com">
+  <a href="https://platform.openai.com">
     <img alt="OpenAI API" src="https://img.shields.io/badge/-OpenAI_API-74AA9C?style=for-the-badge&labelColor=000000&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0id2hpdGUiPjxwYXRoIGQ9Ik0yMi4yODIgOS44MjFhNS45ODUgNS45ODUgMCAwIDAtLjUxNi00LjkxIDYuMDQ2IDYuMDQ2IDAgMCAwLTYuNTEtMi45QTYuMDY1IDYuMDY1IDAgMCAwIDQuOTgxIDQuMThhNS45ODUgNS45ODUgMCAwIDAtMy45OTggMi45IDYuMDQ2IDYuMDQ2IDAgMCAwIC43NDIgNy4wOTcgNS45OCA1Ljk4IDAgMCAwIC41MSA0LjkxMSA2LjA1MSA2LjA1MSAwIDAgMCA2LjUxNSAyLjlBNiA2IDAgMCAwIDEzLjI2IDI0YTYuMDU2IDYuMDU2IDAgMCAwIDUuNzcyLTQuMjA2IDUuOTkgNS45OSAwIDAgMCAzLjk5Ny0yLjkgNi4wNTYgNi4wNTYgMCAwIDAtLjc0Ny03LjA3M3pNMTMuMjYgMjIuNDNhNC40NzYgNC40NzYgMCAwIDEtMi44NzYtMS4wNGwuMTQxLS4wODEgNC43NzktMi43NThhLjc5NS43OTUgMCAwIDAgLjM5Mi0uNjgxdi02LjczN2wyLjAyIDEuMTY4YS4wNzEuMDcxIDAgMCAxIC4wMzguMDUydjUuNTgzYTQuNTA0IDQuNTA0IDAgMCAxLTQuNDk0IDQuNDk0ek0zLjYgMTguMzA0YTQuNDcgNC40NyAwIDAgMS0uNTM1LTMuMDE0bC4xNDIuMDg1IDQuNzgzIDIuNzU5YS43NzEuNzcxIDAgMCAwIC43OCAwbDYuNTcyLTMuNzl2Mi4zMzJhLjA4LjA4IDAgMCAxLS4wMzMuMDYyTDkuNzQgMTkuOTVhNC41IDQuNSAwIDAgMS02LjE0LTEuNjQ2ek0yLjM0IDcuODk2YTQuNDg1IDQuNDg1IDAgMCAxIDIuMzY2LTEuOTczVjExLjZhLjc2Ni43NjYgMCAwIDAgLjM4OC42NzZsNi40OTIgMy43NS0yLjAyIDEuMTY4YS4wNzYuMDc2IDAgMCAxLS4wNzEgMGwtNS4zMjUtMy4wNzRBNC41IDQuNSAwIDAgMSAyLjM0IDcuODcyem0xNi41OTcgMy44NTVsLTYuNTcyLTMuNzlMMTUuMzkgNy4wOGEuMDc2LjA3NiAwIDAgMSAuMDcxIDBsNC44MyAyLjc4NWE0LjQ5NCA0LjQ5NCAwIDAgMS0uNjc2IDguMTA0di01LjY3OGEuNzcuNzcgMCAwIDAtLjQwNy0uNjY3em0yLjAxLTMuMDIzbC0uMTQxLS4wODUtNC43NzMtMi43NzlhLjc3Ni43NzYgMCAwIDAtLjc4NSAwTDkuNDA5IDkuMjNWNi44OTdhLjA2Ni4wNjYgMCAwIDEgLjAyOC0uMDYxbDQuODMtMi43ODdhNC41IDQuNSAwIDAgMSA2LjY4IDQuNjZ6bS0xMi42NCA0LjEzNWwtMi4wMi0xLjE2NGEuMDguMDggMCAwIDEtLjAzOC0uMDU3VjYuOTg5YTQuNSA0LjUgMCAwIDEgNy4zNzUtMy40NTNsLS4xNDIuMDgtNC43NzggMi43NThhLjc5NS43OTUgMCAwIDAtLjM5My42ODF6bTEuMDk3LTIuMzY1bDIuNjAyLTEuNSAyLjYwNyAxLjV2Mi45OTlsLTIuNTk3IDEuNS0yLjYwNy0xLjV6Ii8%2BPC9zdmc%2B&logoColor=white" />
   </a>
   <a href="https://gemini.google.com">
@@ -165,6 +165,12 @@ I'm **Md. Samiur Rahman (Mukul)**, a Software Engineer from Bangladesh. I hold a
   </a>
   <a href="https://aistudio.google.com">
     <img alt="Google AI Studio" src="https://img.shields.io/badge/-Google_AI_Studio-4285F4?style=for-the-badge&labelColor=black&logo=google&logoColor=white" />
+  </a>
+  <a href="https://lovable.dev">
+    <img alt="Lovable" src="https://img.shields.io/badge/-Lovable-E61363?style=for-the-badge&labelColor=black&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAxODAgMTgwIiBmaWxsPSJ3aGl0ZSI%2BPHBhdGggZmlsbC1ydWxlPSJldmVub2RkIiBjbGlwLXJ1bGU9ImV2ZW5vZGQiIGQ9Ik01NC42MDUyIDBDODMuOTM4OSAwIDEwNy43MTkgMjMuODQyNCAxMDcuNzE5IDUzLjI1MzVWNzMuNDkzMUgxMjUuMzk1QzE1NC43MjkgNzMuNDkzMSAxNzguNTA4IDk3LjMzNTUgMTc4LjUwOCAxMjYuNzQ3QzE3OC41MDggMTU2LjE1OCAxNTQuNzI5IDE4MCAxMjUuMzk1IDE4MEgxLjQ5MTdWNTMuMjUzNUMxLjQ5MTcgMjMuODQyNCAyNS4yNzE0IDAgNTQuNjA1MiAwWiIvPjwvc3ZnPg%3D%3D&logoColor=white" />
+  </a>
+  <a href="https://replit.com">
+    <img alt="Replit" src="https://img.shields.io/badge/-Replit-F26207?style=for-the-badge&labelColor=black&logo=replit&logoColor=white" />
   </a>
 </p>
 
