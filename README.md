@@ -63,6 +63,9 @@ I'm **Md. Samiur Rahman (Mukul)**, a Software Engineer from Bangladesh. I hold a
   <a href="https://www.typescriptlang.org/docs">
     <img alt="TypeScript Programming Language" src="https://img.shields.io/badge/-TypeScript_Programmign_Language-blue?style=for-the-badge&labelColor=black&logo=typescript&logoColor=blue" />
   </a>
+  <a href="https://www.w3schools.com/bash/index.php">
+    <img alt="Bash Programming Language" src="https://img.shields.io/badge/-Bash_Programmign_Language-4EAA25?style=for-the-badge&labelColor=black&logo=gnubash&logoColor=4EAA25" />
+  </a>
 </p>
 
 ## 🛠️ Tools & Technologies I Use Regularly
@@ -151,8 +154,17 @@ I'm **Md. Samiur Rahman (Mukul)**, a Software Engineer from Bangladesh. I hold a
   <a href="https://cursor.com">
     <img alt="Cursor" src="https://img.shields.io/badge/-Cursor_AI-000000?style=for-the-badge&labelColor=black&logo=cursor&logoColor=white" />
   </a>
+  <a href="https://github.com/features/copilot">
+    <img alt="GitHub Copilot" src="https://img.shields.io/badge/-GitHub_Copilot-24292F?style=for-the-badge&labelColor=black&logo=githubcopilot&logoColor=white" />
+  </a>
+  <a href="https://windsurf.com">
+    <img alt="Windsurf" src="https://img.shields.io/badge/-Windsurf-0891B2?style=for-the-badge&labelColor=black&logo=windsurf&logoColor=white" />
+  </a>
   <a href="https://claude.ai">
     <img alt="Claude" src="https://img.shields.io/badge/-Claude.ai-D97757?style=for-the-badge&labelColor=black&logo=anthropic&logoColor=white" />
+  </a>
+  <a href="https://claude.ai/code">
+    <img alt="Claude Code" src="https://img.shields.io/badge/-Claude_Code-D97757?style=for-the-badge&labelColor=black&logo=anthropic&logoColor=white" />
   </a>
   <a href="https://chatgpt.com">
     <img alt="ChatGPT" src="https://img.shields.io/badge/-ChatGPT-10A37F?style=for-the-badge&labelColor=000000&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0id2hpdGUiPjxwYXRoIGQ9Ik0yMi4yODIgOS44MjFhNS45ODUgNS45ODUgMCAwIDAtLjUxNi00LjkxIDYuMDQ2IDYuMDQ2IDAgMCAwLTYuNTEtMi45QTYuMDY1IDYuMDY1IDAgMCAwIDQuOTgxIDQuMThhNS45ODUgNS45ODUgMCAwIDAtMy45OTggMi45IDYuMDQ2IDYuMDQ2IDAgMCAwIC43NDIgNy4wOTcgNS45OCA1Ljk4IDAgMCAwIC41MSA0LjkxMSA2LjA1MSA2LjA1MSAwIDAgMCA2LjUxNSAyLjlBNiA2IDAgMCAwIDEzLjI2IDI0YTYuMDU2IDYuMDU2IDAgMCAwIDUuNzcyLTQuMjA2IDUuOTkgNS45OSAwIDAgMCAzLjk5Ny0yLjkgNi4wNTYgNi4wNTYgMCAwIDAtLjc0Ny03LjA3M3pNMTMuMjYgMjIuNDNhNC40NzYgNC40NzYgMCAwIDEtMi44NzYtMS4wNGwuMTQxLS4wODEgNC43NzktMi43NThhLjc5NS43OTUgMCAwIDAgLjM5Mi0uNjgxdi02LjczN2wyLjAyIDEuMTY4YS4wNzEuMDcxIDAgMCAxIC4wMzguMDUydjUuNTgzYTQuNTA0IDQuNTA0IDAgMCAxLTQuNDk0IDQuNDk0ek0zLjYgMTguMzA0YTQuNDcgNC40NyAwIDAgMS0uNTM1LTMuMDE0bC4xNDIuMDg1IDQuNzgzIDIuNzU5YS43NzEuNzcxIDAgMCAwIC43OCAwbDYuNTcyLTMuNzl2Mi4zMzJhLjA4LjA4IDAgMCAxLS4wMzMuMDYyTDkuNzQgMTkuOTVhNC41IDQuNSAwIDAgMS02LjE0LTEuNjQ2ek0yLjM0IDcuODk2YTQuNDg1IDQuNDg1IDAgMCAxIDIuMzY2LTEuOTczVjExLjZhLjc2Ni43NjYgMCAwIDAgLjM4OC42NzZsNi40OTIgMy43NS0yLjAyIDEuMTY4YS4wNzYuMDc2IDAgMCAxLS4wNzEgMGwtNS4zMjUtMy4wNzRBNC41IDQuNSAwIDAgMSAyLjM0IDcuODcyem0xNi41OTcgMy44NTVsLTYuNTcyLTMuNzlMMTUuMzkgNy4wOGEuMDc2LjA3NiAwIDAgMSAuMDcxIDBsNC44MyAyLjc4NWE0LjQ5NCA0LjQ5NCAwIDAgMS0uNjc2IDguMTA0di01LjY3OGEuNzcuNzcgMCAwIDAtLjQwNy0uNjY3em0yLjAxLTMuMDIzbC0uMTQxLS4wODUtNC43NzMtMi43NzlhLjc3Ni43NzYgMCAwIDAtLjc4NSAwTDkuNDA5IDkuMjNWNi44OTdhLjA2Ni4wNjYgMCAwIDEgLjAyOC0uMDYxbDQuODMtMi43ODdhNC41IDQuNSAwIDAgMSA2LjY4IDQuNjZ6bS0xMi42NCA0LjEzNWwtMi4wMi0xLjE2NGEuMDguMDggMCAwIDEtLjAzOC0uMDU3VjYuOTg5YTQuNSA0LjUgMCAwIDEgNy4zNzUtMy40NTNsLS4xNDIuMDgtNC43NzggMi43NThhLjc5NS43OTUgMCAwIDAtLjM5My42ODF6bTEuMDk3LTIuMzY1bDIuNjAyLTEuNSAyLjYwNyAxLjV2Mi45OTlsLTIuNTk3IDEuNS0yLjYwNy0xLjV6Ii8%2BPC9zdmc%2B&logoColor=white" />
@@ -166,11 +178,38 @@ I'm **Md. Samiur Rahman (Mukul)**, a Software Engineer from Bangladesh. I hold a
   <a href="https://aistudio.google.com">
     <img alt="Google AI Studio" src="https://img.shields.io/badge/-Google_AI_Studio-4285F4?style=for-the-badge&labelColor=black&logo=google&logoColor=white" />
   </a>
+  <a href="https://chat.deepseek.com">
+    <img alt="DeepSeek" src="https://img.shields.io/badge/-DeepSeek-4D6BFE?style=for-the-badge&labelColor=black&logo=deepseek&logoColor=white" />
+  </a>
+  <a href="https://mistral.ai">
+    <img alt="Mistral AI" src="https://img.shields.io/badge/-Mistral_AI-FF7000?style=for-the-badge&labelColor=black&logo=mistralai&logoColor=white" />
+  </a>
+  <a href="https://www.perplexity.ai">
+    <img alt="Perplexity" src="https://img.shields.io/badge/-Perplexity-1FB8CD?style=for-the-badge&labelColor=black&logo=perplexity&logoColor=white" />
+  </a>
+  <a href="https://v0.dev">
+    <img alt="v0" src="https://img.shields.io/badge/-v0_by_Vercel-000000?style=for-the-badge&labelColor=black&logo=vercel&logoColor=white" />
+  </a>
   <a href="https://lovable.dev">
     <img alt="Lovable" src="https://img.shields.io/badge/-Lovable-E61363?style=for-the-badge&labelColor=black&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAxODAgMTgwIiBmaWxsPSJ3aGl0ZSI%2BPHBhdGggZmlsbC1ydWxlPSJldmVub2RkIiBjbGlwLXJ1bGU9ImV2ZW5vZGQiIGQ9Ik01NC42MDUyIDBDODMuOTM4OSAwIDEwNy43MTkgMjMuODQyNCAxMDcuNzE5IDUzLjI1MzVWNzMuNDkzMUgxMjUuMzk1QzE1NC43MjkgNzMuNDkzMSAxNzguNTA4IDk3LjMzNTUgMTc4LjUwOCAxMjYuNzQ3QzE3OC41MDggMTU2LjE1OCAxNTQuNzI5IDE4MCAxMjUuMzk1IDE4MEgxLjQ5MTdWNTMuMjUzNUMxLjQ5MTcgMjMuODQyNCAyNS4yNzE0IDAgNTQuNjA1MiAwWiIvPjwvc3ZnPg%3D%3D&logoColor=white" />
   </a>
+  <a href="https://bolt.new">
+    <img alt="Bolt.new" src="https://img.shields.io/badge/-Bolt.new-1269FF?style=for-the-badge&labelColor=black&logo=stackblitz&logoColor=white" />
+  </a>
   <a href="https://replit.com">
     <img alt="Replit" src="https://img.shields.io/badge/-Replit-F26207?style=for-the-badge&labelColor=black&logo=replit&logoColor=white" />
+  </a>
+  <a href="https://cline.bot">
+    <img alt="Cline" src="https://img.shields.io/badge/-Cline-6C5CE7?style=for-the-badge&labelColor=black&logo=cline&logoColor=white" />
+  </a>
+  <a href="https://ollama.com">
+    <img alt="Ollama" src="https://img.shields.io/badge/-Ollama-000000?style=for-the-badge&labelColor=black&logo=ollama&logoColor=white" />
+  </a>
+  <a href="https://huggingface.co">
+    <img alt="Hugging Face" src="https://img.shields.io/badge/-Hugging_Face-FFD21E?style=for-the-badge&labelColor=black&logo=huggingface&logoColor=white" />
+  </a>
+  <a href="https://zed.dev">
+    <img alt="Zed" src="https://img.shields.io/badge/-Zed-084CCF?style=for-the-badge&labelColor=black&logo=zedindustries&logoColor=white" />
   </a>
 </p>
 
