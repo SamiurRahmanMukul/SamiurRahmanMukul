@@ -384,9 +384,11 @@ I love learning and sharing knowledge and putting `tutorials, courses, posts & o
   />
 </p>
 
+<!--
 #### 📈 Contribution Graph
 
 ![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=SamiurRahmanMukul&theme=tokyo-night&hide_border=true)
+-->
 
 </details>
 
